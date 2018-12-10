@@ -28,7 +28,6 @@ class Solution:
             right=len(nums)-1
             
             if i>0 and nums[i-1]==nums[i]:
-                # left+=1
                 continue
             '''
             用来代替
